@@ -1,0 +1,8 @@
+0;alsdkfjalsfjaslů;ano;2001-11-09
+1;bingus;ne;2011-11-11
+2;Tomášovi kule;ano;2007-01-26
+3;dfgbsdfgsdgsdfgsd;ano;1111-11-11
+4;cvbxcbx;ano;2011-11-11
+5;sbsdgvsd;ano;1995-11-11
+6;viktorův mozek;ne;9999-12-31
+7;ggg;ne;2000-11-11
